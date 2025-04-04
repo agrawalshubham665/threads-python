@@ -1,6 +1,8 @@
 # Creating and Sharing data between Python threads using Queue
 
-  Tutorial teaches you the basics of Python threading and how to tranfer data between threads using producer-consumer pattern
+  Tutorial teaches you the basics of Python threading and how to tranfer data between threads using producer-consumer pattern.
+
+  # YOUTUBE LINK: https://www.youtube.com/watch?v=j_envuVVBNw&t=88s
 
 ## Online Tutorial 
 
