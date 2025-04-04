@@ -2,7 +2,8 @@
 
   Tutorial teaches you the basics of Python threading and how to tranfer data between threads using producer-consumer pattern.
 
-  # YOUTUBE LINK: https://www.youtube.com/watch?v=j_envuVVBNw&t=88s
+  # YOUTUBE LINK: 
+  https://www.youtube.com/watch?v=j_envuVVBNw&t=88s
 
 ## Online Tutorial 
 
